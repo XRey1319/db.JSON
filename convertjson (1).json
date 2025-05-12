@@ -1,0 +1,1777 @@
+{
+   "urlset": {
+      "url": [
+         {
+            "loc": "https://thelastupd.org/action-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/adventure-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/racing-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/rpg-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/puzzles-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/indie-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/strategy-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/survival-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/shooter-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/simulatory-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/sports-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/arcade-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/fighting-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/horror-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/open-world-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/anime-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/gamepad-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/roguelike-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/slasher-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/stealth-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/fantasy-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/platformer-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/sandbox-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/2d-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/casual-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/side-view/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/view-from-above/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tower-defense/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/economic-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tactical-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-v-realnom-vremeni/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/turn-based-strategies/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/global-strategies/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/real-time-strategies/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/dlja-vzroslyh/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/first-person-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/third-person-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/first-person-shooter/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/third-person-shooters/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/psychological-horror-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/survival-horror-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/role-playing-action/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/adventure-action-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/golovolomka-platformer/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/scrolling-shooters-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/top-down-shooters/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/urban-simulation-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/space-simulators-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/nauchnaja-fantastika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/role-strategies-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/point-and-click/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/2d-platformer/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/vizualnaja-novella/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/obrazovanie/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/partijnaja-rpg/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/simuljator-hodby/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/simuljator-zhizni/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/avtosimuljator/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/ritm-igra/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/korolevskaja-bitva/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/simuljator-kolonii/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/simuljator-fermy/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/immersivnyj-simuljator/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/kliker/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/arena-shuter/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/platformer-na-tochnost/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/metroidvanija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/pohozha-na-dark-souls/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/kollektaton/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/idle-igra/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/poisk-suschestv/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/zrelischnye-srazhenija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/pasjans/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/boevye-gonki/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-lut/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/luter-shuter/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-menedzhment/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/politicheskij-simuljator/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tradicionnyj-rogalik/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/milaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/stilizacija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/psevdotrehmernost/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/abstraktnaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/krasivaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/vokselnaja-grafika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/logika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/drama/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/romantika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/sjurrealistichnaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/priroda/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/roboty/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/prorabotannaja-vselennaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/triller/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/antiutopija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/sverhestestvennoe/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/alternativnaja-istorija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/srazhenija-na-mechah/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/kotiki/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/amerika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/illjuminaty/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/kapitalizm/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/zagovor/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/satira/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/gotika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/shahty/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/boevye-iskusstva/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tanki/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/podvodnyj-mir/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/kulinarija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/flot/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/transport/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/mars/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/oborotni/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/boj/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/neskolko-koncovok/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/igra-protiv-ii/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/linejnaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/nelinejnaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/povestvovatelnaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/nabor-ochkov/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/menedzhment-inventarja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/peremeschenie-po-setke/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/razdelenie-na-klassy/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/kastomizacija-oruzhija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/postroenie-kolody/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/gonki-na-vyzhivanie/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/svoboda-dvizhenija/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/zamedlenie-vremeni/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/dinamicheskoe-povestvovanie/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/memy/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/takticheskaja-rolevaja-igra/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/taktika-v-realnom-vremeni/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/temnoe-fjentezi/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-slozhnaja/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-atmospheric/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-smeshnaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-pikselnaia-grafika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-iumor/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-klassika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kosmos/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-zombi/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-mrachnaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-taina/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-fizika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-realizm/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-korotkaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-stroitelstvo/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-voina/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-krafting/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-budushchee/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-srednevekove/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-zatiagivaiushchaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-stroitelstvo-bazy/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-upravlenie-resursami/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-nasilie/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-dlia-vsei-semi/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-issledovaniya/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-rasslabliaiushchaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-reigrabelnost/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-poisk-predmetov/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-postapokalipsis/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-vtoraia-mirovaia-voina/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-voennye-deistviia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-vozhdenie/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-poshagovaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-poshagovaia-taktika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-3d-platformer/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-odna-zhizn/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-parkur/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-detektiv/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kriminal/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-razrusheniia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-90-e/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-80-e/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-razdelenie-ekrana/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-voennye-konflikty/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-drakony/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-piraty/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-nindzia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-poezda/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-dinozavry/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-ranner/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-supergeroi/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-po-komiksu/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-khakerstvo/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-emotsionalnaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-futbol/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-rybalka/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-bezdorozhe/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-programmirovanie/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-vampiry/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-snaiper/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-rimeik/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-otlichnyi-saundtrek/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-glubokii-siuzhet/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-zhenshchina-protagonist/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-krov/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kiberpank/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-epichnaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-miaso/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-nagota/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-tsvetastaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-education/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-uproshchennyi-rogalik/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-muzyka/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kastomizatsiia-personazha/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-istoriia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-okhota/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-po-motivam-knigi/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-pervaia-mirovaia-voina/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-taim-menedzhment/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-psikhodeliia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-nauka/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-morskie-boi/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-selskoe-khoziaistvo/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kinematografichnaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-vestern/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-tri-v-riad/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-stimpank/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-redaktor-urovnei/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kultovaia-klassika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-minimalizm/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-shootem-up/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-resheniia-s-posledstviiami/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-protsedurnaia-generatsiia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-multiplikatsiia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-multfilm/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-poshagovye-srazheniia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-magiia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-izometriia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-kartochnaia-igra/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-chernyi-iumor/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-beatem-up/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-svoboda-vybora/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-risovannaia-grafika/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-inoplanetiane/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-tvin-stik-shuter/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-nastolnaia-igra/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-polety/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-moba/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-demony/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-rassledovaniya/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-mifologiia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-vr/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-dungeon-crawler/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/tag-psikhologicheskaia/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/retro-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/old-school-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/japanese-role-playing-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2025-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2024-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2023-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2022-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2021-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2020-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2019-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2018-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2017-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2016-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2015-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2014-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2013-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2012-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2011-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2010-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2009-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2008-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2007-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2006-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2005-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2004-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2003-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2002-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2001-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-2000-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1999-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1998-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1997-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1996-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1995-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1994-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1993-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1992-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1991-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-1990-years/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/gog-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/russian-voice/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/old-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/games-for-weak-pcs/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/for-two-players/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/early-access/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/lastversion-pcgame/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/top-actual-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/top-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         },
+         {
+            "loc": "https://thelastupd.org/new-games/",
+            "changefreq": "weekly",
+            "lastmod": "2025-05-12T12:15:01+03:00",
+            "priority": "0.7"
+         }
+      ],
+      "_xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9"
+   }
+}
